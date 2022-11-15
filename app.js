@@ -59,7 +59,7 @@ const main = async () => {
     }
     guardarDb(tareas.listadoArr)
     await pausa();
-  }while(opt !=='0' )
+  }while(opt !=='7' )
   
   
   
